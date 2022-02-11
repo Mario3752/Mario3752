@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @Mario3752
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+Mario3752/Mario3752 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+-Go to the website https://www.touraine-eschool.fr click on https://ent.netocentre.fr/cas/login?service=https://www.touraine-eschool.fr/portail/Login&token=1f6a5655478c2f55c9c37207e46a6415 press https://educonnect.education.gouv.fr/idp/profile/SAML2/Redirect/SSO?execution=e2s1 press the student button identify yourself in the name of m.esposito43 and insert a password that is call Mumus@37 connect when you arrive on the site https://www.touraine-eschool.fr/portail/f/accueil/normal/render.uP press the 3 bars at the top left of the screen and press on the button https://0370022y.index-education.net/pronote/eleve.html?identifier=uk5JCKvgGbyjtqTY arrive on the site go to my notes and change the general average student
+:20.00
+
+
